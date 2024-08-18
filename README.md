@@ -41,10 +41,10 @@ Print all users in sorted order based on their leftover balance
 ### Sample Input 0
 
 4
-1 9000
-2 3000
-3 7500
-4 2000
+1 9000 
+2 3000  
+3 7500  
+4 2000 
 
 5
 1 2 1000
